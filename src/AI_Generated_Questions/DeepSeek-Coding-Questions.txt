@@ -1,0 +1,194 @@
+DeepSeek.
+### **Arrays**
+1. **Find Maximum Element**  
+   *Description:* Write a method to return the largest element in an integer array.
+
+2. **Find Minimum Element**  
+   *Description:* Return the smallest element in an integer array.
+
+3. **Reverse an Array**  
+   *Description:* Reverse the elements of an array in-place.
+
+4. **Check Sorted Array**  
+   *Description:* Determine if an array is sorted in ascending order.
+
+5. **Remove Duplicates from Sorted Array**  
+   *Description:* Remove duplicates in-place and return the new length.
+
+6. **Rotate Array by K Positions**  
+   *Description:* Rotate elements to the right by `k` (e.g., `[1,2,3]` → `[3,1,2]` for `k=1`).
+
+7. **Sum of Array Elements**  
+   *Description:* Calculate the sum of all elements.
+
+8. **Average of Array Elements**  
+   *Description:* Compute the average of elements.
+
+9. **Linear Search**  
+   *Description:* Find the index of a target value using linear search.
+
+10. **Binary Search**  
+    *Description:* Implement binary search for a sorted array.
+
+11. **Second Largest Element**  
+    *Description:* Find the second largest element in an unsorted array.
+
+12. **Move Zeros to End**  
+    *Description:* Move zeros to the end while retaining non-zero order.
+
+13. **Array Intersection**  
+    *Description:* Return common elements between two arrays.
+
+14. **Missing Number**  
+    *Description:* Find the missing number in a sequence `0, 1, 2, ..., n`.
+
+15. **Check Array Equality**  
+    *Description:* Determine if two arrays have identical elements in the same order.
+
+16. **Bubble Sort**  
+    *Description:* Sort an array using bubble sort.
+
+17. **Pairs with Given Sum**  
+    *Description:* Find all pairs in the array that sum to a target.
+
+18. **First Non-Repeating Element**  
+    *Description:* Return the first element that appears once.
+
+19. **Element Frequency**  
+    *Description:* Print the frequency of each unique element.
+
+20. **Merge Sorted Arrays**  
+    *Description:* Merge two sorted arrays into one sorted array.
+
+---
+
+### **Strings**
+21. **Reverse String**  
+    *Description:* Reverse a string without using `StringBuilder.reverse()`.
+
+22. **Check Palindrome**  
+    *Description:* Return `true` if a string is a palindrome.
+
+23. **Count Vowels/Consonants**  
+    *Description:* Count vowels and consonants in a string.
+
+24. **Check Anagrams**  
+    *Description:* Determine if two strings are anagrams (e.g., "listen" vs. "silent").
+
+25. **First Non-Repeated Character**  
+    *Description:* Find the first character that appears once.
+
+26. **String to Uppercase**  
+    *Description:* Convert a string to uppercase manually.
+
+27. **Remove Whitespaces**  
+    *Description:* Remove all spaces from a string.
+
+28. **Count Substring Occurrences**  
+    *Description:* Count how many times a substring appears.
+
+29. **Replace Substring**  
+    *Description:* Replace all instances of a substring with another.
+
+30. **Validate Number String**  
+    *Description:* Check if a string is a valid integer or float.
+
+31. **Split String into Words**  
+    *Description:* Split a sentence into an array of words.
+
+32. **Longest Word**  
+    *Description:* Find the longest word in a sentence.
+
+33. **Capitalize Words**  
+    *Description:* Capitalize the first letter of each word.
+
+34. **Check Digits Only**  
+    *Description:* Return `true` if a string contains only digits.
+
+35. **Remove Duplicate Characters**  
+    *Description:* Remove duplicate chars, keeping the first occurrence.
+
+36. **Longest Palindromic Substring**  
+    *Description:* Find the longest palindrome substring.
+
+37. **Check String Rotation**  
+    *Description:* Check if one string is a rotation of another (e.g., "abcd" → "cdab").
+
+38. **String Compression**  
+    *Description:* Compress consecutive characters (e.g., "aaabbc" → "a3b2c1").
+
+39. **Implement indexOf()**  
+    *Description:* Find the first occurrence of a substring in a string.
+
+40. **Count and Say Sequence**  
+    *Description:* Generate the nth term of the count-and-say sequence.
+
+---
+
+### **ArrayList**
+41. **Reverse ArrayList**  
+    *Description:* Reverse the elements of an ArrayList manually.
+
+42. **Merge ArrayLists**  
+    *Description:* Merge two ArrayLists without duplicates.
+
+43. **Remove Duplicates**  
+    *Description:* Remove duplicates while preserving order.
+
+44. **Common Elements**  
+    *Description:* Return elements common to two ArrayLists.
+
+45. **Difference Between Lists**  
+    *Description:* Find elements in one list but not the other.
+
+46. **Check Empty ArrayList**  
+    *Description:* Return `true` if the list has no elements.
+
+47. **Convert to Array**  
+    *Description:* Convert an ArrayList of strings to a `String[]`.
+
+48. **Shuffle Elements**  
+    *Description:* Randomly shuffle the elements of an ArrayList.
+
+49. **Find Maximum Element**  
+    *Description:* Find the largest integer in an ArrayList.
+
+50. **Sort ArrayList**  
+    *Description:* Sort an ArrayList of integers without `Collections.sort()`.
+
+---
+
+### **Loops & Conditions**
+51. **Multiplication Table**  
+    *Description:* Print the multiplication table for a given number.
+
+52. **Print Pyramid Pattern**  
+    *Description:* Print a pyramid pattern using loops (e.g., `*` pyramid).
+
+53. **Check Prime Number**  
+    *Description:* Determine if a number is prime.
+
+54. **Fibonacci Series**  
+    *Description:* Print the Fibonacci sequence up to `n` terms.
+
+55. **Factorial Calculation**  
+    *Description:* Compute the factorial of a number.
+
+56. **Leap Year Check**  
+    *Description:* Check if a year is a leap year.
+
+57. **Sum of Digits**  
+    *Description:* Calculate the sum of digits of a number.
+
+58. **Reverse a Number**  
+    *Description:* Reverse the digits of an integer (e.g., 123 → 321).
+
+59. **Check Palindrome Number**  
+    *Description:* Determine if a number is a palindrome.
+
+60. **GCD of Two Numbers**  
+    *Description:* Find the greatest common divisor using loops.
+
+---
+
+This list provides a solid foundation for practicing core Java concepts. Expand it further by exploring edge cases, optimizing solutions, or adding more complex problems like matrix operations or recursion.
