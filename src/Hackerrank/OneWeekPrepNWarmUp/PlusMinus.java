@@ -1,4 +1,4 @@
-package Hackerrank;
+package Hackerrank.OneWeekPrepNWarmUp;
 
 import java.util.List;
 
