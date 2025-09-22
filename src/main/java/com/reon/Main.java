@@ -2,7 +2,10 @@ package com.reon;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(sumOfN(12345));
+        System.out.println();
+        int age = 24;
+        System.out.println(age++);
+        System.out.println(++age);
     }
 
     public static void nTo1(int n) {
